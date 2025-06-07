@@ -1,4 +1,4 @@
-# Julien Gourdon – Consultant SEO IA et Développeur Web d'applications alimentées à l'IA générative
+# Julien Gourdon – Consultant SEO IA et développeur web d'applications alimentées à l'IA générative
 
 👋 Bonjour ! Je m’appelle **Julien Gourdon**.  
 Je suis **consultant SEO** depuis plus de 10 ans, passionné d’intelligence artificielle, de développement Python, d'optimisation web et d'automatisation.
