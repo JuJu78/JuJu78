@@ -1,16 +1,32 @@
-## Hi there 👋
+# Julien Gourdon – Consultant SEO, Expert IA & Développeur Web
 
-<!--
-**JuJu78/JuJu78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Bonjour ! Je m’appelle **Julien Gourdon**.  
+Je suis **consultant SEO** depuis plus de 10 ans, passionné d’intelligence artificielle, de développement Python et d’optimisation web.
 
-Here are some ideas to get you started:
+## 🚀 Compétences principales
+- **SEO technique & sémantique** (Google, Perplexity, SearchGPT…)
+- **Développement d’outils web** (React, Python, Flask, Node.js)
+- **IA appliquée au SEO** (RAG, extraction d’entités, vectorisation sémantique, agents LLM)
+- **Automatisation & data scraping** (API, BeautifulSoup, Data For SEO…)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Services proposés
+- **Audit SEO avancé** (technique, sémantique, netlinking, GEO)
+- **Création d’outils SEO sur-mesure** (Chrome extensions, crawlers, analyseurs sémantiques)
+- **Mise en place de systèmes RAG & recherche sémantique**
+- **Formation & accompagnement IA + SEO**
+- **Développement Python / React pour automatisation de workflow SEO**
+- **Stratégie de visibilité sur moteurs de recherche génératifs**
+
+## 🌐 Mes projets phares
+- [BriefAI](https://github.com/julien-gourdon/BriefAI) – Génération automatique de briefs SEO à partir de la SERP
+- [ProzAI](https://github.com/julien-gourdon/ProzAI) – Analyse d’intention de recherche & RAG
+- [julien-gourdon.fr](https://julien-gourdon.fr) – Blog & outils SEO gratuits
+
+## 📣 Me contacter
+- [Mon site web](https://julien-gourdon.fr)
+- [LinkedIn](https://www.linkedin.com/in/julien-gourdon/)
+- Mail : contact@julien-gourdon.fr
+
+---
+
+
