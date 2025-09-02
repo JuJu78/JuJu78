@@ -1,7 +1,7 @@
-# Julien Gourdon – Consultant SEO IA et développeur web d'applications alimentées à l'IA générative
+# Julien Gourdon – Consultant SEO IA et Generative Engine Optimization (GEO)
 
 👋 Bonjour ! Je m’appelle **Julien Gourdon**.  
-Je suis **consultant SEO** depuis plus de 10 ans, passionné d’intelligence artificielle, de développement Python, d'optimisation web et d'automatisation.
+Je suis **consultant SEO** depuis plus de 10 ans et spécialisé dans l'optimisation de la visibilité des marques dans les moteurs de recherche génératifs tels que ChatGPT, Perplexity, Gemini et Claude. Je suis passionné d’intelligence artificielle, de développement Python, d'optimisation web et d'automatisation.
 
 ## 🚀 Compétences principales
 - **SEO technique & sémantique** (Google, Perplexity, SearchGPT…)
